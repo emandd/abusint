@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_import"
+        android:icon="@drawable/ic_import"
+        android:title="@string/nav_import"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/nav_record"
+        android:icon="@drawable/ic_record"
+        android:title="@string/nav_record"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/nav_study"
+        android:icon="@drawable/ic_study"
+        android:title="@string/nav_study"
+        app:showAsAction="ifRoom"/>
+
+
+
+</menu>

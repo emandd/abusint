@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">abusint</string>
+    <string name="nav_import">Экспорт записи</string>
+    <string name="nav_record">Запись</string>
+    <string name="nav_study">Уроки игры</string>
+    <string name="record">Record</string>
+    <string name="play">Play</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+
+</resources>
